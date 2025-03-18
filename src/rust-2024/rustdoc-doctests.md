@@ -35,7 +35,7 @@ This change is only available in the 2024 Edition to avoid potential incompatibi
 [doctests]: ../../rustdoc/write-documentation/documentation-tests.html
 [libtest harness]: ../../rustc/tests/index.html
 
-[^implementation]: For more information on the details of how this work, see ["Doctests - How were they improved?"](https://blog.guillaume-gomez.fr/articles/2024-08-17+Doctests+-+How+were+they+improved%3F).
+[^implementation]: For more information on the details of how this works, see ["Doctests - How were they improved?"](https://blog.guillaume-gomez.fr/articles/2024-08-17+Doctests+-+How+were+they+improved%3F).
 
 ### `standalone_crate` tag
 
